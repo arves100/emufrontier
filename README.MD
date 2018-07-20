@@ -6,12 +6,12 @@ A prototyped Brave Frontier Web Server written in Python 2.7
  - PyCrypto (pip install pycrypto)
 
 ### Status
- [x] Handle HTTP Requests with Headers and PHP '?' Arguments
- [x] Bind an Asyncrous Server
- [ ] Configuration (Hard coded now)
- [ ] Login
- [x] Terms
- [x] Background
+- [x] Handle HTTP Requests with Headers and PHP '?' Arguments
+- [x] Bind an Asyncrous Server
+- [ ] Configuration (Hard coded now)
+- [ ] Login
+- [x] Terms
+- [x] Background
  
 ### How to use (Global Version 1.10.30.0)
  Extract libgame.so, change '68 74 74 70 73 3A 2F 2F' (01626430, 01633EC0, 0164D690) to '68 74 74 70 3A 2F 2F 00'.
