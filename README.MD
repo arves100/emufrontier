@@ -2,6 +2,9 @@
 
 A prototyped Brave Frontier Web Server written in Python 2.7
 
+**NOTICE:** THIS REPOSITORY WAS DESIGNED FOR BRAVE FRONTIER 1.10, A NEWER REWRITE OF THIS PROJECT THAT TARGETS THE LAST BRAVE FRONTIER VERSION PRIOR TO SHUTDOWN IS RELEASED HERE: https://github.com/arves100/gimufrontier. NO MORE UPDATES OR SUPPORT WILL BE MADE FOR THIS REPOSITORY.
+
+
 ### Requirements
  - PyCrypto (pip install pycrypto)
 
